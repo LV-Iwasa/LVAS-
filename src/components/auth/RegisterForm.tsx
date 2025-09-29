@@ -1,6 +1,5 @@
-@@ .. @@
    ArrowRight,
--  ArrowLeft
-+  ArrowLeft,
+  ArrowLeft,
+  AlertCircle
 +  AlertCircle
  } from 'lucide-react';
